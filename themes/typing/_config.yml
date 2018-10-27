@@ -77,3 +77,13 @@ valine:
   verify: false # valine verify code (true/false)
   notify: false # valine mail notify (true/false)
   lang: zh-cn
+
+# Donate
+donate:
+  enable: false
+  github: https://github.com/geekplux
+  paypal: https://www.paypal.me/geekplux
+  bitcoin: 1AVngxh56oLvAzXsEFnzccUohZdHswjC7j
+  BTCQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/bitcoin.png
+  AliPayQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/alipayQR.jpg
+  WeChatQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/wechatQR.jpg
