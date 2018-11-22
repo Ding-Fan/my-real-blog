@@ -75,6 +75,7 @@ if(isEdit === 'Y') {
 > Boolean arguments loudly declare that the function does more than one thing. They are confusing and should be eliminated.
 
 参考：
+
 - https://softwareengineering.stackexchange.com/questions/147977/is-it-wrong-to-use-a-boolean-parameter-to-determine-behavior
 - https://www.wikiwand.com/en/Cohesion_(computer_science)
 - https://www.wikiwand.com/en/Coupling_(computer_programming)
