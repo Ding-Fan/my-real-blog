@@ -9,7 +9,7 @@ tags:
 
 1. 在 `onShow` 处调用 `wx.login()` 获取 `js_code`
 
-2. 用户点击 `button` ，获取 `avatarUrl` 和 `nick_name` ，例如：
+2. 用户点击 `button` ，获取相关密文等，例如：
 
 ```html
   <button open-type="getUserInfo" @getuserinfo="onGotUserInfo">
