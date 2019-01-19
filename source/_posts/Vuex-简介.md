@@ -18,4 +18,6 @@ tags:
 
 当然没问题。事实上面对着诡异多变的需求，我是倾向于这样做的。谁能想到某一天 Component A 被要求关联看上去毫无交集的 Component G 呢？ Store once, use everywhere! 但是使用 Vuex 毫无疑问会增加代码量。我目前的解决方案是安装 Vuex Snippet 的插件或根据当前项目自己写 snippet 。
 
+2019.01.04： 现在认为，在不同的情况下选择不同的方法或模式，就像在不同的语境下用不同的词法句式一样。
+
 延伸阅读： [Should I Store This Data in Vuex?](https://markus.oberlehner.net/blog/should-i-store-this-data-in-vuex/)
