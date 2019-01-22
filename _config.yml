@@ -5,7 +5,7 @@
 # Site
 title: My Real Blog
 subtitle: 我要坚持更新！
-description:
+description: Ding Fan blog here
 keywords:
 author: Ding Fan
 language: zh
@@ -27,6 +27,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+post_asset_folder: true
 
 # Writing
 new_post_name: :title.md # File name of new posts
