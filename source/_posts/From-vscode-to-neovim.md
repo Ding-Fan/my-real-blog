@@ -10,9 +10,11 @@ tags:
 
 于是我想到一个好主意，把 vscode 的使用习惯和一些快捷操作在 vim 中一一找到对应的操作方式，再把 vim 的日常操作一点点学习起来，这样就能渐渐将 vim 拥入怀中了。
 
-搜索 vim delete and paste a word 得到答案：
 https://unix.stackexchange.com/questions/88714/vim-how-can-i-do-a-change-word-using-the-current-paste-buffer
 
+http://vim.wikia.com/wiki/Changing_case_with_regular_expressions
+
+http://vimregex.com/
 
 
 
